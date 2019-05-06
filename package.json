@@ -1,5 +1,5 @@
 {
-  "name": "devcampjs-builder",
+  "name": "js-builder2",
   "version": "0.1.0",
   "description": "This module allows for a dynamic footer to be generated for a js applciation",
   "main": "index.js",
