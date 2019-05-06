@@ -5,7 +5,7 @@
 install with the command:
 
 ```
-npm install --save devcampp-js-footer
+npm install --save devcamp-js-footer
 ```
 add to Javascript with the following code:
 
